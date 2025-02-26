@@ -107,4 +107,23 @@ class Program
         myCat.Eat();   // Animal is eating.
     }
 }
+```
+## Polimorfizm (Polymorphism),
+ nesne yönelimli programlamanın (OOP) temel prensiplerinden biridir. Türkçede "çok biçimlilik" olarak adlandırılır. Polimorfizm, farklı sınıfların aynı metot veya özelliği kendi ihtiyaçlarına göre farklı şekillerde uygulayabilmesini sağlar. Bu sayede, aynı türdeki nesneler farklı davranışlar sergileyebilir.
 
+Polimorfizm'in Temel Özellikleri:
+Aynı Arayüz, Farklı Davranış:
+
+Farklı sınıflar, aynı metot imzasını (isim ve parametreler) kullanarak farklı davranışlar sergileyebilir.
+
+Örneğin, bir "Hayvan" sınıfının "SesCikar" metodu, "Köpek" sınıfında "Hav hav!", "Kedi" sınıfında ise "Miyav!" şeklinde farklı davranabilir.
+
+Esneklik ve Genişletilebilirlik:
+
+Polimorfizm, kodun daha esnek ve genişletilebilir olmasını sağlar. Yeni sınıflar eklenirken mevcut kod değiştirilmeden yeni davranışlar eklenebilir.
+
+Kalıtım ve Arayüzlerle İlişkili:
+
+Polimorfizm, genellikle kalıtım (inheritance) veya arayüzler (interfaces) kullanılarak gerçekleştirilir.
+
+Örneğin, bir temel sınıf veya arayüz üzerinden türetilen sınıflar, aynı metotları farklı şekillerde uygulayabilir.
