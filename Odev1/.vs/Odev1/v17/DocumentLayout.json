@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|c:\\users\\pakdi\\desktop\\acunmedyaakademi\\odev1\\odev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|solutionrelative:odev1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|c:\\users\\pakdi\\desktop\\acunmedyaakademi\\odev1\\odev1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|solutionrelative:odev1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|c:\\users\\pakdi\\desktop\\acunmedyaakademi\\odev1\\odev1\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|solutionrelative:odev1\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|c:\\users\\pakdi\\desktop\\acunmedyaakademi\\odev1\\odev1\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|solutionrelative:odev1\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|c:\\users\\pakdi\\desktop\\acunmedyaakademi\\odev1\\odev1\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858D9030-F907-47CA-A0BB-FBC4968B93F1}|Odev1\\Odev1.csproj|solutionrelative:odev1\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Togg.cs",
+              "DocumentMoniker": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Togg.cs",
+              "RelativeDocumentMoniker": "Odev1\\Togg.cs",
+              "ToolTip": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Togg.cs",
+              "RelativeToolTip": "Odev1\\Togg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:54:40.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Porsche.cs",
+              "RelativeDocumentMoniker": "Odev1\\Porsche.cs",
+              "ToolTip": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Porsche.cs",
+              "RelativeToolTip": "Odev1\\Porsche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:45:22.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Bmw.cs",
+              "RelativeDocumentMoniker": "Odev1\\Bmw.cs",
+              "ToolTip": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Bmw.cs",
+              "RelativeToolTip": "Odev1\\Bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:44:59.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Car.cs",
+              "RelativeDocumentMoniker": "Odev1\\Car.cs",
+              "ToolTip": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Car.cs",
+              "RelativeToolTip": "Odev1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:44:46.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Program.cs",
+              "RelativeDocumentMoniker": "Odev1\\Program.cs",
+              "ToolTip": "C:\\Users\\pakdi\\Desktop\\AcunMedyaAkademi\\Odev1\\Odev1\\Program.cs",
+              "RelativeToolTip": "Odev1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:43:47.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
