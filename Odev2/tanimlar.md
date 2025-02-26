@@ -32,19 +32,20 @@ public class Dog : Animal
 }
 ```
 
-##Abstract Soyutlama (Soyut Sınıflar ve Metodlar), bir sınıfın veya metodun sadece temel yapısının tanımlandığı, ancak belirli bir işlem veya davranışın detaylarının alt sınıflara bırakıldığı bir kavramdır. Soyutlama, karmaşık sistemlerin daha basit ve anlaşılır hale getirilmesini sağlar. Soyut sınıf ve soyut metod kavramlarını anlamak için, aşağıdaki özellikleri ve mantığı inceleyebiliriz:
+## Abstract Soyutlama (Soyut Sınıflar ve Metodlar),
+bir sınıfın veya metodun sadece temel yapısının tanımlandığı, ancak belirli bir işlem veya davranışın detaylarının alt sınıflara bırakıldığı bir kavramdır. Soyutlama, karmaşık sistemlerin daha basit ve anlaşılır hale getirilmesini sağlar. Soyut sınıf ve soyut metod kavramlarını anlamak için, aşağıdaki özellikleri ve mantığı inceleyebiliriz:
 
-##1. Soyut Sınıf (Abstract Class)
+## 1. Soyut Sınıf (Abstract Class)
 Soyut sınıf, diğer sınıfların türeyeceği bir temel sınıftır. Soyut sınıflar doğrudan örneklendirilemez (instance oluşturulamaz), sadece türemek amacıyla kullanılır. Soyut sınıf, hem somut (concrete) hem de soyut (abstract) metodlar içerebilir.
 
-##Özellikler:
+## Özellikler:
 Soyut metotlar içerir (implement edilmesi gereken metotlar).
 Somut metotlar da içerebilir (alt sınıflar tarafından kullanılabilir).
 Soyut sınıflar doğrudan instansiyalanamaz, yalnızca türetilerek kullanılabilir.
 2. Soyut Metod (Abstract Method)
 Soyut metodlar, yalnızca başlıkları olan, fakat gövdeleri bulunmayan metotlardır. Bu metotlar, alt sınıflar tarafından implement edilmek zorundadır. Soyut metodlar soyut sınıflar içinde tanımlanır.
 
-##Özellikler:
+## Özellikler:
 Bir gövdeye sahip değildir (yalnızca bir imza bulunur).
 Alt sınıflar, bu metodun gövdesini sağlamak zorundadır.
 
