@@ -15,3 +15,21 @@ Soyut sınıflarda implementasyonu yapılmış metotlar da bulunabilir. Bu metot
 ### 3. Nesne Oluşturulamaz:
 
 Soyut sınıf bir nesne oluşturulamaz, sadece onu miras alan sınıflar üzerinden nesne oluşturulabilir.
+
+public abstract class Animal
+{
+public string Name { get; set; }
+
+    // Soyut metod (alt sınıflar tarafından implement edilmesi gerekir)
+    public abstract void MakeSound();
+
+}
+
+public class Dog : Animal
+{
+// Soyut metodun implementasyonu
+public override void MakeSound()
+{
+Console.WriteLine("Bark");
+}
+}
