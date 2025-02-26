@@ -1,0 +1,20 @@
+# Derleme dosyalarını hariç tut
+bin/
+obj/
+
+# Kullanıcı ayar dosyaları
+*.user
+*.suo
+*.csproj.user
+
+# Visual Studio klasörleri
+.vscode/
+.vs/
+
+# Diğer gereksiz dosyalar
+*.log
+*.cache
+Thumbs.db
+Desktop.ini
+*.bak
+*.swp
