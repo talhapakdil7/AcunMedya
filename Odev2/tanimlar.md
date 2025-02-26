@@ -29,7 +29,7 @@ public class Dog : Animal
     {
         Console.WriteLine("Bark");
     }
-}
+}```
 
 ##Abstract Soyutlama (Soyut Sınıflar ve Metodlar),## bir sınıfın veya metodun sadece temel yapısının tanımlandığı, ancak belirli bir işlem veya davranışın detaylarının alt sınıflara bırakıldığı bir kavramdır. Soyutlama, karmaşık sistemlerin daha basit ve anlaşılır hale getirilmesini sağlar. Soyut sınıf ve soyut metod kavramlarını anlamak için, aşağıdaki özellikleri ve mantığı inceleyebiliriz:
 
