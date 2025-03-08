@@ -1,0 +1,1 @@
+aynı yada farklı verı yapılarındaki verileri sıralı olarak saklamak için diziler kullanılır. ilk elemanın indexi 0dır.
