@@ -1,0 +1,19 @@
+ ⁠C# dilinde kullanılan erişim belirleyiciler (public, private, protected, internal) nelerdir Her birini gerçek hayattan bir örnekle açıklayın.
+Erişim belirleyicilerin nesne yönelimli programlamadaki (OOP) rolü nedir
+
+public:public erişim belirliyiciye sahip üye Proje ıcındekı tum classlardan erısılebılır.
+örnek olarak millet bahcelerıne benzetebılırız herkes oraya gıdebılır eğlenebilir.
+
+private: bu erısım turune sahıp üyeler sadece tanımlandığı sınıftan erişilebilir fakat kapsülleme yöntemiyle alt sınıflara erişilebilir yapabiliriz
+
+örnek olarak bir evdeki yatak odası o evdeki kişiye ait özel odadır kimse giremez.Sadece ev sahibi girebilir.
+
+protected: ait olduğu sınıf ve o sınıftan kalıtılan alt sınıf erişebilir
+
+örnek olarak bir ailenin şirketine o aileye mensup o sülaleden kişiler girebilir.
+
+internal= bu erısım turune sahip üyeler sadece proje ıcındekı classlar erısebılır
+
+örnek olarak okullardaki bilgi işleme sadece oranın calısanları gırebılır alakasız kişiler giremez
+
+erişim belilrieyicler bilgi güvenliği acısından oldukça önemlidir
