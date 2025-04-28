@@ -1,0 +1,32 @@
+{
+  "kitaplar": [
+    {
+      "id": 1,
+      "ad": "Körlük",
+      "yazar": "José Saramago",
+      "yayinevi": "Kırmızı Kedi Yayınevi",
+      "yil": 1995
+    },
+    {
+      "id": 2,
+      "ad": "Suç ve Ceza",
+      "yazar": "Fyodor Dostoyevski",
+      "yayinevi": "İş Bankası Kültür Yayınları",
+      "yil": 1866
+    },
+    {
+      "id": 3,
+      "ad": "Simyacı",
+      "yazar": "Paulo Coelho",
+      "yayinevi": "Can Yayınları",
+      "yil": 1988
+    },
+    {
+      "id": 4,
+      "ad": "Sefiller",
+      "yazar": "Victor Hugo",
+      "yayinevi": "İş Bankası Kültür Yayınları",
+      "yil": 1862
+    }
+  ]
+}

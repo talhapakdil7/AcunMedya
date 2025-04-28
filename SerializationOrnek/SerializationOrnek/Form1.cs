@@ -1,8 +1,7 @@
-using System.Text.Json;
 using System.Xml.Serialization;
 using Newtonsoft.Json;
-using JsonSerializer = Newtonsoft.Json.JsonSerializer;
 namespace SerializationOrnek
+    
 {
     public partial class Form1 : Form
     {
@@ -77,12 +76,42 @@ namespace SerializationOrnek
 
         private void btnjsonOlustur_Click(object sender, EventArgs e)
         {
-            Product product = new Product();
-            product.Name = "apple";
-            product.price = 3500;
-            product.ExpirationDate = DateTime.Now;
 
-            JsonSerializer jsonserializer = new JsonSerializer();
+            try
+            {
+
+
+
+
+                Product product = new Product
+                {
+                    Name = "apple",
+                    ExpirationDate = DateTime.Now,
+                    price = 3500
+                };
+
+
+
+                JsonSerializer jsonserializer = new JsonSerializer();
+                using (StreamWriter st = new StreamWriter(@"C:\Users\pakdi\Desktop\AcunMedyaAkademi\product.json"))
+
+                {
+
+                }
+                using (JsonWriter jsonWriter = new JsonTextWriter(st))
+                {
+
+                     jsonserializer.Serialize(jsonWriter, product);
+                    MessageBox.Show("seeri tamam");
+
+
+                }
+            }
+            catch (Exception ex) {
+            
+            
+            }
+
 
 
 
